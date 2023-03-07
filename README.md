@@ -7,11 +7,11 @@
 
 ## 목차
 
-### [파코테 1 - 최신 영화 PreView Page(★★☆☆☆)](https://github.com/hj9118/final-coding-test/blob/8d4690becefa6a22bee9a0b357d68262c3d0eb25/01.boxOffice)
+### [파코테 1 - 최신 영화 PreView Page(★★☆☆☆)](https://github.com/hj9118/final-coding-test/tree/main/01.boxOffice)
 
-### [파코테 2 - 이미지 캐러셀 Page(★★★☆☆)](https://github.com/hj9118/final-coding-test/blob/8d4690becefa6a22bee9a0b357d68262c3d0eb25/2.imageCarousel)
+### [파코테 2 - 이미지 캐러셀 Page(★★★☆☆)](https://github.com/hj9118/final-coding-test/tree/main/02.imageCarousel)
 
-### [파코테 3 - 영화 별점 평가하기(★☆☆☆☆)](https://github.com/hj9118/final-coding-test/blob/8d4690becefa6a22bee9a0b357d68262c3d0eb25/03.movieStar)
+### [파코테 3 - 영화 별점 평가하기(★☆☆☆☆)](https://github.com/hj9118/final-coding-test/tree/main/03.movieStar)
 
 ### 파코테 4 - 뮤직 플레이(★★★★★)
 
