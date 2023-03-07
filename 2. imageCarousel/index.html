@@ -8,15 +8,15 @@
       href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@700&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="src/styles/style.css">
+    <link rel="stylesheet" href="src/styles/style.css" />
     <title>Carousel</title>
   </head>
   <body>
-    <section>
+    <section id="carousel">
       <h1 class="util-ir">캐러셀 이미지 리스트</h1>
       <div class="carousel-cont">
         <ul class="carousel-list">
-          <li class="carousel-item">
+          <li class="carousel-item now">
             <img src="src/images/이미지_1.png" alt="" />
           </li>
           <li class="carousel-item">
@@ -34,5 +34,6 @@
       <input type="file" accept="images/*" id="image-upload-input" />
       <label for="image-upload-input">이미지 업로드</label>
     </form>
+    <script src="src/js/main.js"></script>
   </body>
 </html>
