@@ -1,0 +1,65 @@
+@import 'reset.css';
+
+.util-ir {
+  display: block;
+  overflow: hidden;
+  width: 1px;
+  height: 1px;
+  font-size: 1px;
+  line-height: 0;
+  text-indent: -9999px;
+}
+
+.image-upload{
+  position: absolute;
+  top: 77px;
+  left: 149px;
+}
+
+#image-upload-input{
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+#image-upload-input + label {
+  display: block;
+  width: 185px;
+  height: 54px;
+  text-align: center;
+  line-height: 54px;
+  background-color: #2f80ed;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 18px;
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+#carousel {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.carousel-cont{
+
+}
+.carousel-list{
+
+}
+.carousel-item{
+position: absolute;
+top: 0;
+left: 0;
+-webkit-box-reflect:below 35px linear-gradient(transparent 55%, rgba(255,255,255,0.25));
+overflow: hidden;
+border-radius: 10px;
+box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+transition: all .5s;
+}
