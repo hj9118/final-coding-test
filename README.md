@@ -19,7 +19,7 @@
 
 ### [파코테 6 - 카드 게임(★★★☆☆)](https://github.com/hj9118/final-coding-test/tree/main/06.cardGame)
 
-### 파코테 7 - 무인 자판기(★★★☆☆)
+### [파코테 7 - 무인 자판기(★★★☆☆)](https://github.com/hj9118/final-coding-test/tree/main/07.cokeMachine)
 
 ### 파코테 8 - MBIT 테스트지 만들기(★★★☆☆)
 
